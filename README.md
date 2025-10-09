@@ -2,6 +2,9 @@
 # Magyar költők  verseinek érzelemelemzése BERT-alapú modell segítségével
 
 
+készítette: Kunsági Zsolt
+
+
 
 
 
